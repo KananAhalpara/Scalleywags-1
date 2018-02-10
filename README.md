@@ -1,8 +1,8 @@
 # Scalleywags-1
 Web Design Assignment-Saclleywags - Algonquin College
 
-
-
+Your site is ready to be published at https://kananahalpara.github.io/Scalleywags-1/.
+<br><br>
 Assignment 3: Scalleywags!
  
 
