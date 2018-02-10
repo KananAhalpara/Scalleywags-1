@@ -1,0 +1,128 @@
+html{
+	font-family: 'Lobster', cursive;
+}
+body{
+	background-image: url("../images/bg.png");
+	background-color: blue;
+}
+
+
+.wrapper{
+	height: 915px;
+	width: 980px;
+	background-color: #fbf1db;
+	display: block;
+	margin:0 210px;
+}
+
+header{
+	background-image: url("../images/header-bg.png");
+	background-color: #000;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 980px;
+	height: 240px;
+	position: relative;
+}
+
+.logo img{
+	height: 255px;
+	position: absolute;
+	top: 0;
+    right: -140px;
+}
+
+header h1{
+	font-size: 96px;
+	color: #800a00;
+	padding:48px 40px 17px;
+}
+
+header h2{
+	font-size: 32px;
+	padding-left:40px;
+}
+
+nav{
+ 	height: 75px;
+ 	width: 100%;
+ 	background: #800a00; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#800a00 40%,  rgba(0,0,0,0.9)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#800a00 40%,rgba(0,0,0,0.9)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#800a00 40%,rgba(0,0,0,0.9)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#800a00 40%,rgba(0,0,0,0.9)); /* Standard syntax (must be last) */
+    background-blend-mode: multiply;
+    float: left;
+    text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+	
+}
+
+nav ul li{
+	display: inline-block;
+	padding:20px 70px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 32px;	
+}
+
+section{
+	background-image: url("../images/section-bg.png");
+	background-color: blue;
+	padding: 42px 100px;
+	clear: both;
+	padding-bottom: 100px;
+}
+
+section h1{
+	font-size: 40px;
+	color: #000;
+	padding-bottom: 25px;
+	line-height: 1.2em;
+}
+
+section a{
+	color: #3b7bab;
+	font-size: 24px;
+}
+
+section p{
+	padding-top: 20px;
+	font-size: 18px;
+	font-family: Trebuchet MS,serif;
+	line-height: 1.5em;
+	text-align: justify; 
+}
+
+footer{
+	background-image: url("../images/footer-bg.png");
+	background-color: blue;
+	text-align: left;
+	height: 50px;
+	width: 100%;
+	margin-bottom: 85px;
+}
+
+footer ul{
+	list-style-type: none;
+}
+
+footer ul li{
+	display: inline-block;
+	padding:15px 30px;
+}
+
+footer ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+	float: left;
+	
+}
+
