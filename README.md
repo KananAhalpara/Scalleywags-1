@@ -2,6 +2,9 @@
 Web Design Assignment-Saclleywags - Algonquin College
 
 Your site is ready to be published at https://kananahalpara.github.io/Scalleywags-1/.
+(ALERT:If you click the link above you might get the fonts different in visual than the psd but if you have the pasifico font installed on
+your device,than you will get the corretc font family when you download the file.)
+
 <br><br>
 Assignment 3: Scalleywags!
  
